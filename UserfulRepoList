@@ -1,6 +1,12 @@
 
 网址链接：
-    1、非常全的iOS第三方库和开源APP的整理，而且分的非常详细和清晰
+    1、非常全的iOS第三方库和开源APP的整理，而且分的非常详细和清晰--*****
         URL：http://github.ibireme.com/github/list/ios/
         
-    2、
+    2、一篇博客收集的常用的第三方库及OSX软件--***
+        URL：http://honglu.me/2015/04/10/开发常用工具/
+        
+    3、iOS开发过程中，需要使用的工具软件有：
+        1）Git管理软件： SourceTree--*****
+        2）抓包工具：Charles--*****
+        3）切图工具：PhotoShop + 插件(Cut and Slice me)--*****
