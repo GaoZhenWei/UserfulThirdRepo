@@ -19,3 +19,6 @@
     5、Swift语言官方文档中文版--*****
         1）The Swift Programming Language 中文版：http://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/
         2）Using Swift with Cocoa and Objective-C 中文翻译版：http://mengxiangpingx.gitbooks.io/using-swift-with-cocoa-and-objective-c/content/basic.html
+
+    6、下拉刷新和上拉加载：--****
+        1）支持文字和图片自定义--MJRresh：https://github.com/CoderMJLee/MJRefresh
